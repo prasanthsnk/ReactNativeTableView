@@ -1,4 +1,4 @@
-
+```
 USE:
 
 import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from 'Path';
@@ -320,3 +320,4 @@ If parent element is not Table component，please add the type of borderstyle.
     <Cols data={data} />
   </TableWrapper>
 </ScrollView>
+```
