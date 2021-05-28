@@ -4,18 +4,8 @@ USE:
 import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from 'Path';
 
 
-
-
-
-Changelogs
-[v1.0.3]
-'TableWraper' changed to 'TableWrapper';
-[v1.1.1]
-Data supports incoming Element types
-[v1.2.1]
-Change the default value of the borderWidth from 1 to 0
-
 Examples
+
 Example1
 
 
